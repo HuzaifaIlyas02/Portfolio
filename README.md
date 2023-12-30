@@ -1,2 +1,2 @@
 # Portfolio
-React, CSS Sanity Based Portfolio
+React Based Portfolio
