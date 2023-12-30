@@ -6,7 +6,8 @@ function App() {
 
   return (
     <div className={styles.App}>
-      <Navbar/>
+      <Navbar />
+      <Hero />
     </div>
   )
 }
