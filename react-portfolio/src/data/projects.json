@@ -1,0 +1,28 @@
+[
+
+
+    {
+      "title": "LEXER",
+      "imageSrc": "projects/project.png",
+      "description": "A Flask Application for Lexical Analyzer, Syntax Analyzer and Tree Generator",
+      "skills": ["Flask", "Python", "JavaScript"],
+      "demo": "https://lexer-87uy.onrender.com/",
+      "source": "https://github.com/HuzaifaIlyas02/Lexer"
+    },
+    {
+      "title": "Immersive Firearm Training Simulation using MR",
+      "imageSrc": "projects/Holo.png",
+      "description": "This is a Project that uses Mixed reality Technology for training of armed forces.",
+      "skills": ["Mixed-Reality", "HoloLens", "unity 3D"],
+      "demo": "/",
+      "source": "/"
+    },
+    {
+      "title": "Social Book",
+      "imageSrc": "projects/SocialBook.webp",
+      "description": "A Django-based social media web application to facilitate meaningful connections and expand digital relationships.",
+      "skills": ["Python", "Django", "JavaScript"],
+      "demo": "/",
+      "source": "https://github.com/HuzaifaIlyas02/SocialLinkDjango"
+    }
+  ]
