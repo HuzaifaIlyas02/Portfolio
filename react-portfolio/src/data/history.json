@@ -1,0 +1,22 @@
+[
+    {
+      "role": "Undergraduate Student Researcher",
+      "organisation": "CoE-AI",
+      "startDate": "Dec, 2022",
+      "endDate": "Present",
+      "experiences": ["Worked on Ultralytics YOLOv8", "Worked on an AI-Road Condition Application"],
+      "imageSrc": "history/coe.jpeg"
+    },
+    
+    {
+      "role": "Development Intern",
+      "organisation": "CoE-AI",
+      "startDate": "Aug, 2022",
+      "endDate": "Dec, 2022",
+      "experiences": [
+        "Worked on Microsoft HoloLens 2",
+        "Developed a MR-Training App"
+      ],
+      "imageSrc": "history/COE.jpeg"
+    }
+  ]

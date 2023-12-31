@@ -1,0 +1,38 @@
+[
+    {
+      "title": "C++",
+      "imageSrc": "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+    },
+    {
+      "title": "Flask",
+      "imageSrc": "https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
+    },
+    {
+      "title": "React",
+      "imageSrc": "https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
+    },
+    {
+      "title": "Django",
+      "imageSrc": "https://cdn.worldvectorlogo.com/logos/django.svg"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+    },
+    {
+      "title": "Tensorflow",
+      "imageSrc": "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+    },
+    {
+      "title": "Pandas",
+      "imageSrc": "https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+    }
+  ]
