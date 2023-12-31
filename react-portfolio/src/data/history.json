@@ -7,7 +7,7 @@
       "experiences": ["Worked on Ultralytics YOLOv8", "Worked on an AI-Road Condition Application"],
       "imageSrc": "history/coe.jpeg"
     },
-    
+
     {
       "role": "Development Intern",
       "organisation": "CoE-AI",
@@ -17,6 +17,6 @@
         "Worked on Microsoft HoloLens 2",
         "Developed a MR-Training App"
       ],
-      "imageSrc": "history/COE.jpeg"
+      "imageSrc": "history/coe.jpeg"
     }
   ]
